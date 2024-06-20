@@ -19,7 +19,8 @@
           "securityType": "trustedLaunch",
           "encryptionAtHost": true,
           "uefiSettings": {
-            "secureBootEnabled": false
+            "secureBootEnabled": false,
+            "vTpmEnabled": null
           }
         }
       },

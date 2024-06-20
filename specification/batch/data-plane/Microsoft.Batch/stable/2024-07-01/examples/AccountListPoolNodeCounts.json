@@ -13,6 +13,8 @@
             "poolId": "pool1",
             "dedicated": {
               "creating": 0,
+              "deallocated": 0,
+              "deallocating": 0,
               "idle": 0,
               "leavingPool": 0,
               "offline": 0,
@@ -30,6 +32,8 @@
             },
             "lowPriority": {
               "creating": 0,
+              "deallocated": 0,
+              "deallocating": 0,
               "idle": 0,
               "leavingPool": 0,
               "offline": 0,
@@ -50,6 +54,8 @@
             "poolId": "pool2",
             "dedicated": {
               "creating": 0,
+              "deallocated": 0,
+              "deallocating": 0,
               "idle": 1,
               "leavingPool": 0,
               "offline": 3,
@@ -67,6 +73,8 @@
             },
             "lowPriority": {
               "creating": 0,
+              "deallocated": 0,
+              "deallocating": 0,
               "idle": 0,
               "leavingPool": 0,
               "offline": 0,
@@ -87,6 +95,8 @@
             "poolId": "pool3",
             "dedicated": {
               "creating": 0,
+              "deallocated": 0,
+              "deallocating": 0,
               "idle": 5,
               "leavingPool": 0,
               "offline": 0,
@@ -104,6 +114,8 @@
             },
             "lowPriority": {
               "creating": 7,
+              "deallocated": 0,
+              "deallocating": 0,
               "idle": 0,
               "leavingPool": 0,
               "offline": 0,
