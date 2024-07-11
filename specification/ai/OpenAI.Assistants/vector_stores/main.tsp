@@ -1,3 +1,4 @@
+import "./common/main.tsp";
 import "./models.tsp";
 import "./routes.tsp";
 
